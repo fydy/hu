@@ -5,7 +5,7 @@ go:
 
 branches:
   only:
-    - master
+    - source
 
 env:
  global:
@@ -31,10 +31,10 @@ script:
   - ./hugo
 
 after_script:
+  - cd ./public
   - git init
   - git config user.name "fydy"
   - git config user.email "edu@yuns.me"
-  - git checkout --orphan source
   - git add .
   - git commit -m "Update docs"
-  - git push --quiet --force https://$hu@github.com/fydy/hu.git source
+  - git push --quiet --force https://$hu@github.com/fydy/hu.git master
