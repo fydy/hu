@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/enabling-the-financial-services-shift-to-microservices/</loc>
+    <lastmod>2018-08-08T22:12:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/knative-serving-autoscaler-single-tenancy-deep-dive/</loc>
+    <lastmod>2018-08-07T22:20:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-tutorials-collection/</loc>
+    <lastmod>2018-08-06T08:43:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-service-mesh-tech-boosts-kubernetes-work-with-trade-offs/</loc>
+    <lastmod>2018-08-05T15:47:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/sidecar-design-pattern-in-microservices-ecosystem/</loc>
+    <lastmod>2018-08-02T15:32:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/sofa-mosn-deep-dive/</loc>
+    <lastmod>2018-08-02T14:31:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/announcing-istio-1.0/</loc>
+    <lastmod>2018-07-31T21:44:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/beijing-meetup-20180729/</loc>
+    <lastmod>2018-07-30T19:08:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-discovery-module-deepin-part2/</loc>
+    <lastmod>2018-07-28T17:49:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/how-service-mesh-addresses-3-major-microservices/</loc>
+    <lastmod>2018-07-28T17:11:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/service-mesh-architecture-radicalizes-container-networking/</loc>
+    <lastmod>2018-07-26T21:12:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/service-mesh-architectures/</loc>
+    <lastmod>2018-07-24T14:49:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/the-circonus-istio-mixer-adapter/</loc>
+    <lastmod>2018-07-17T20:12:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-discovery-module-deepin/</loc>
+    <lastmod>2018-07-17T17:32:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/distributed-tracing-istio-and-your-applications/</loc>
+    <lastmod>2018-07-17T12:53:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/introducing-sofamesh-a-solution-for-large-scale-service-mesh-by-ant-financial/</loc>
+    <lastmod>2018-07-16T15:51:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/ab-testing-on-kubernetes-with-istio-0.8/</loc>
+    <lastmod>2018-07-13T12:38:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/designing-a-rate-limiting-service-for-ambassador-part-4/</loc>
+    <lastmod>2018-07-11T15:32:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-agent-deepin/</loc>
+    <lastmod>2018-07-11T14:24:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-future-service-mesh/</loc>
+    <lastmod>2018-07-09T12:37:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/rip-conduit/</loc>
+    <lastmod>2018-07-09T12:19:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/the-way-to-service-mesh-in-ant-financial/</loc>
+    <lastmod>2018-07-04T19:56:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-deepin-part3-mixer-workflow/</loc>
+    <lastmod>2018-07-04T19:44:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-deepin-part2-serivce-management-workflow/</loc>
+    <lastmod>2018-07-04T19:24:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-deepin-part1-framework-and-environment/</loc>
+    <lastmod>2018-07-04T19:11:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/comprehensive-container-based-service-monitoring-with-kubernetes-and-istio/</loc>
+    <lastmod>2018-07-04T17:54:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/traffic-routing-between-fn-functions-using-fn-project-and-istio-fd/</loc>
+    <lastmod>2018-07-04T17:44:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/consul-1-2-service-mesh/</loc>
+    <lastmod>2018-07-04T12:48:07+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/implementing-a-java-rate-limiting-service-for-the-ambassador-api-gateway-part3/</loc>
+    <lastmod>2018-07-04T12:26:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/hangzhou-meetup-20180630/</loc>
+    <lastmod>2018-07-03T12:22:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/rate-limiting-for-api-gateway-daniel-bryant-part2/</loc>
+    <lastmod>2018-07-03T12:11:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/rate-limiting-a-useful-tool-with-distributed-systems-part1/</loc>
+    <lastmod>2018-06-29T15:51:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-is-not-just-for-microservices/</loc>
+    <lastmod>2018-06-28T15:09:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-envoy-cert-manager-lets-encrypt-for-tls/</loc>
+    <lastmod>2018-06-25T20:30:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/vp-microservices-communication-governance-using-service-mesh/</loc>
+    <lastmod>2018-06-22T19:01:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/soft-multitenancy-in-istio-service-mesh/</loc>
+    <lastmod>2018-06-21T18:11:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/containers-service-mesh-and-api-gateways-it-starts-at-the-edge/</loc>
+    <lastmod>2018-06-21T18:00:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-service-mesh-pilot-xds-note/</loc>
+    <lastmod>2018-06-21T16:55:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/the-universal-data-plane-api/</loc>
+    <lastmod>2018-06-21T16:11:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/vistio-visualize-your-istio-mesh-using-netflixs-vizceral/</loc>
+    <lastmod>2018-06-20T10:25:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/making-most-out-microservices-service-mesh/</loc>
+    <lastmod>2018-06-19T18:04:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/service-mesh-in-cookpad/</loc>
+    <lastmod>2018-06-19T15:54:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/using-linkerd-as-a-service-mesh-proxy-at-wepay/</loc>
+    <lastmod>2018-06-19T11:42:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/lightweight-service-mesh-practice-in-ucloud/</loc>
+    <lastmod>2018-06-14T10:43:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/migrating-from-classical-soa-to-service-mesh-in-ant-financial/</loc>
+    <lastmod>2018-06-13T18:58:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/the-rise-of-the-istio-service-mesh/</loc>
+    <lastmod>2018-06-12T15:06:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/twistlock-makes-istios-security-layer-more-robust-easier-to-monitor/</loc>
+    <lastmod>2018-06-11T20:40:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-mixer-cache-part4-signature/</loc>
+    <lastmod>2018-06-11T14:03:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-mixer-cache-part3-main/</loc>
+    <lastmod>2018-06-11T13:43:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-security-notes-by-fleeto/</loc>
+    <lastmod>2018-06-11T10:56:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-routing-using-opentracing-baggage-distributed-context-propagation/</loc>
+    <lastmod>2018-06-08T16:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/tracing-grpc-with-istio/</loc>
+    <lastmod>2018-06-08T12:40:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/service-mesh-security-addressing-attack-vectors-with-istio/</loc>
+    <lastmod>2018-06-07T19:27:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-mixer-cache-part2-principle/</loc>
+    <lastmod>2018-06-07T19:19:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-mixer-cache-part1-concepts/</loc>
+    <lastmod>2018-06-07T19:16:21+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/introducing-the-istio-v1alpha3-routing-api/</loc>
+    <lastmod>2018-06-06T18:30:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/manage-microservices-traffic-using-istio/</loc>
+    <lastmod>2018-06-06T15:32:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/8-ways-a-service-mesh-eases-microservices-deployment/</loc>
+    <lastmod>2018-06-05T19:12:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/helm-chart-for-istio-0.8/</loc>
+    <lastmod>2018-06-04T16:09:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/the-path-to-service-mesh/</loc>
+    <lastmod>2018-06-04T15:55:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/building-istio-with-minikube-in-a-container-and-jenkins/</loc>
+    <lastmod>2018-06-04T11:33:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-0.8-release-note/</loc>
+    <lastmod>2018-06-01T11:41:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/gitops-for-istio-manage-istio-config-like-code/</loc>
+    <lastmod>2018-05-31T21:12:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/the-desigin-patterns-for-a-commercial-service-mesh/</loc>
+    <lastmod>2018-05-30T15:00:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/deepin-service-mesh-tech-details/</loc>
+    <lastmod>2018-05-23T16:09:57+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/istio-service-mesh-tutorial/</loc>
+    <lastmod>2018-05-22T12:16:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/service-mesh-rebuild-microservice-market/</loc>
+    <lastmod>2018-05-21T21:48:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/blog/</loc>
+    <lastmod>2018-05-20T15:51:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/ab-test/</loc>
+    <lastmod>2018-07-13T12:38:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/ambassador/</loc>
+    <lastmod>2018-06-21T18:00:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/ant-financial/</loc>
+    <lastmod>2018-08-02T14:31:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/baggage/</loc>
+    <lastmod>2018-06-08T16:01:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/chart/</loc>
+    <lastmod>2018-06-04T16:09:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/circonus/</loc>
+    <lastmod>2018-07-17T20:12:18+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/conduit/</loc>
+    <lastmod>2018-07-09T12:19:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/consul/</loc>
+    <lastmod>2018-07-04T12:48:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/distributing-system/</loc>
+    <lastmod>2018-07-11T15:32:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/envoy/</loc>
+    <lastmod>2018-06-25T20:30:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/fintech/</loc>
+    <lastmod>2018-08-08T22:12:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/fn/</loc>
+    <lastmod>2018-07-04T17:44:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/function/</loc>
+    <lastmod>2018-07-04T17:44:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/gitops/</loc>
+    <lastmod>2018-05-31T21:12:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/grpc/</loc>
+    <lastmod>2018-06-08T12:40:05+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/harshicorp/</loc>
+    <lastmod>2018-07-04T12:48:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/helm/</loc>
+    <lastmod>2018-06-04T16:09:57+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/huawei/</loc>
+    <lastmod>2018-05-30T15:00:22+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/infoq/</loc>
+    <lastmod>2018-06-22T19:01:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/istio/</loc>
+    <lastmod>2018-08-07T22:20:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/istio/</loc>
+    <lastmod>2018-07-31T21:44:58+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/istio-mixer-cache/</loc>
+    <lastmod>2018-06-11T14:03:34+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/istio-source-deepin/</loc>
+    <lastmod>2018-07-28T17:49:21+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/jenkins/</loc>
+    <lastmod>2018-06-04T11:33:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/knative/</loc>
+    <lastmod>2018-08-07T22:20:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/knative/</loc>
+    <lastmod>2018-08-07T22:20:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/kubernetes/</loc>
+    <lastmod>2018-08-07T22:20:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/lets-encrypt/</loc>
+    <lastmod>2018-06-25T20:30:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/linkerd/</loc>
+    <lastmod>2018-07-09T12:19:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/matt-klein/</loc>
+    <lastmod>2018-06-22T19:01:51+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/meetup/</loc>
+    <lastmod>2018-07-30T19:08:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/meetup/</loc>
+    <lastmod>2018-07-30T19:08:31+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/microservices/</loc>
+    <lastmod>2018-08-02T15:32:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/monitoring/</loc>
+    <lastmod>2018-07-04T17:54:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/mosn/</loc>
+    <lastmod>2018-08-02T14:31:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/opentracing/</loc>
+    <lastmod>2018-06-08T16:01:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/pilot/</loc>
+    <lastmod>2018-06-21T16:55:56+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/rate-limiting/</loc>
+    <lastmod>2018-07-11T15:32:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/rate-limiting/</loc>
+    <lastmod>2018-07-11T15:32:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/security/</loc>
+    <lastmod>2018-06-11T20:40:28+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/serverless/</loc>
+    <lastmod>2018-07-04T17:44:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/service-mesh/</loc>
+    <lastmod>2018-08-08T22:12:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/service-mesh/</loc>
+    <lastmod>2018-08-02T14:31:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/</loc>
+    <lastmod>2018-08-08T22:12:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/sidecar/</loc>
+    <lastmod>2018-08-02T15:32:40+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/sofa/</loc>
+    <lastmod>2018-08-02T14:31:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/sofamesh/</loc>
+    <lastmod>2018-08-02T14:31:43+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/sofastack/</loc>
+    <lastmod>2018-07-16T15:51:34+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/source-code/</loc>
+    <lastmod>2018-07-04T19:44:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/sre/</loc>
+    <lastmod>2018-07-04T17:54:13+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/</loc>
+    <lastmod>2018-07-13T12:38:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/tls/</loc>
+    <lastmod>2018-06-25T20:30:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/tracing/</loc>
+    <lastmod>2018-07-17T12:53:14+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/translation/</loc>
+    <lastmod>2018-08-08T22:12:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/tutorial/</loc>
+    <lastmod>2018-08-06T08:43:29+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/categories/tutorial/</loc>
+    <lastmod>2018-08-06T08:43:29+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/ucloud/</loc>
+    <lastmod>2018-06-14T10:43:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/vamp/</loc>
+    <lastmod>2018-07-13T12:38:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/vistio/</loc>
+    <lastmod>2018-06-20T10:25:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/tags/vizceral/</loc>
+    <lastmod>2018-06-20T10:25:16+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/activity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lvshi.cf/hu/contact/</loc>
+  </url>
+  
+</urlset>

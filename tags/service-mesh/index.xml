@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service Mesh on ServiceMesher</title>
+    <link>https://lvshi.cf/hu/tags/service-mesh/</link>
+    <description>Recent content in Service Mesh on ServiceMesher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 08 Aug 2018 22:12:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://lvshi.cf/hu/tags/service-mesh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>服务网格加速金融科技向微服务转型</title>
+      <link>https://lvshi.cf/hu/blog/enabling-the-financial-services-shift-to-microservices/</link>
+      <pubDate>Wed, 08 Aug 2018 22:12:16 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/enabling-the-financial-services-shift-to-microservices/</guid>
+      <description>金融服务公司通常都拥有沉重的历史包袱，当然对于想要进入这个行业的新秀来说也算是商业壁垒，因为他们很难突破低利润和严苛的监管规则。曾占主导地位</description>
+    </item>
+    
+    <item>
+      <title>Istio service mesh示例教程汇总</title>
+      <link>https://lvshi.cf/hu/blog/istio-tutorials-collection/</link>
+      <pubDate>Mon, 06 Aug 2018 08:43:29 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/istio-tutorials-collection/</guid>
+      <description>8月1日0点，Istio 1.0发布，已生产就绪！大家都已经跃跃欲试了，几天前我发布了一键在本地搭建运行Istio 1.0的分布式Kuberne</description>
+    </item>
+    
+    <item>
+      <title>采纳运行在Kubernetes上的Istio服务网格的利弊分析</title>
+      <link>https://lvshi.cf/hu/blog/istio-service-mesh-tech-boosts-kubernetes-work-with-trade-offs/</link>
+      <pubDate>Sun, 05 Aug 2018 15:47:05 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/istio-service-mesh-tech-boosts-kubernetes-work-with-trade-offs/</guid>
+      <description>IT 团队能否只使用一种工具，使开发人员能够专注于编写应用程序代码，使管理员只专注于 IT 资源的管理？使用 Istio 可以实现，尽管如此，采纳 Istio 前确实需要研究</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh数据平面SOFAMosn深层揭秘</title>
+      <link>https://lvshi.cf/hu/blog/sofa-mosn-deep-dive/</link>
+      <pubDate>Thu, 02 Aug 2018 14:31:43 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/sofa-mosn-deep-dive/</guid>
+      <description>SOFAMosn GitHub地址：https://github.com/alipay/sofa-mosn 本文作者：朵晓东，花名奕杉，蚂蚁金服高级技术专家，</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh深度学习系列part3—istio源码分析之pilot-discovery模块分析（续）</title>
+      <link>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-discovery-module-deepin-part2/</link>
+      <pubDate>Sat, 28 Jul 2018 17:49:21 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-discovery-module-deepin-part2/</guid>
+      <description>本文为Service Mesh深度学习系列之一： Service Mesh深度学习系列part1—istio源码分析之pilot-agent模块分析 Service Mesh</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh 如何解决微服务中的3个主要挑战</title>
+      <link>https://lvshi.cf/hu/blog/how-service-mesh-addresses-3-major-microservices/</link>
+      <pubDate>Sat, 28 Jul 2018 17:11:16 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/how-service-mesh-addresses-3-major-microservices/</guid>
+      <description>我们都知道微服务会增加复杂性。 了解服务网络如何解决这一问题和其他挑战。 我最近正在阅读 Dimensional Research 撰写的全球微服务趋势报告，在阅读的同时，我个人也认为</description>
+    </item>
+    
+    <item>
+      <title>服务网格架构激活了容器网络管理—来自于服务网格创建者们的见解与展望</title>
+      <link>https://lvshi.cf/hu/blog/service-mesh-architecture-radicalizes-container-networking/</link>
+      <pubDate>Thu, 26 Jul 2018 21:12:31 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/service-mesh-architecture-radicalizes-container-networking/</guid>
+      <description>容器是IT行业的超级英雄，它与服务网格是最佳组合。它们联手对抗混乱的网络管理。 容器和微服务出现催生了一种称为服务网格的新型网络架构范例，但 IT</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh架构解析</title>
+      <link>https://lvshi.cf/hu/blog/service-mesh-architectures/</link>
+      <pubDate>Tue, 24 Jul 2018 14:49:07 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/service-mesh-architectures/</guid>
+      <description>注：这是介绍服务网格的软件架构方面系列的第二篇文章。要了解更多，请查看服务网格之路。 如果你正在围绕微服务构建软件和团队，并且在寻找更快、更灵</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh深度学习系列part2—istio源码分析之pilot-discovery模块分析</title>
+      <link>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-discovery-module-deepin/</link>
+      <pubDate>Tue, 17 Jul 2018 17:32:31 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-discovery-module-deepin/</guid>
+      <description>本文分析的istio代码版本为0.8.0，commit为0cd8d67，commit时间为2018年6月18日。 本文为Service Mesh</description>
+    </item>
+    
+    <item>
+      <title>使用Istio分布式跟踪应用程序</title>
+      <link>https://lvshi.cf/hu/blog/distributed-tracing-istio-and-your-applications/</link>
+      <pubDate>Tue, 17 Jul 2018 12:53:14 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/distributed-tracing-istio-and-your-applications/</guid>
+      <description>在微服务领域，分布式跟踪正逐渐成为调试和跟踪应用程序最重要的依赖工具。 最近的聚会和会议上，我发现很多人对分布式跟踪的工作原理很感兴趣，但同时</description>
+    </item>
+    
+    <item>
+      <title>蚂蚁金服开源SOFAMesh—一款基于Istio改进和扩展而来的Service Mesh大规模落地实践方案</title>
+      <link>https://lvshi.cf/hu/blog/introducing-sofamesh-a-solution-for-large-scale-service-mesh-by-ant-financial/</link>
+      <pubDate>Mon, 16 Jul 2018 15:51:34 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/introducing-sofamesh-a-solution-for-large-scale-service-mesh-by-ant-financial/</guid>
+      <description>4月，蚂蚁金服自主研发的分布式中间件（Scalable Open Financial Architecture，以下简称 SOFA ）启动开源计划，并开放多个组件，（相关背景请点</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh深度学习系列part1—istio源码分析之pilot-agent模块分析</title>
+      <link>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-agent-deepin/</link>
+      <pubDate>Wed, 11 Jul 2018 14:24:24 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/istio-service-mesh-source-code-pilot-agent-deepin/</guid>
+      <description>本文分析的istio代码版本为0.8.0，commit为0cd8d67，commit时间为2018年6月18日。 本文为Service Mesh</description>
+    </item>
+    
+    <item>
+      <title>Istio以及Service Mesh的未来</title>
+      <link>https://lvshi.cf/hu/blog/istio-future-service-mesh/</link>
+      <pubDate>Mon, 09 Jul 2018 12:37:48 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/istio-future-service-mesh/</guid>
+      <description>本文转载自InfoQ。 重要结论 微服务风格的架构能够简化单个服务的开发。然而，对于成百上千个微服务的通信、监控以及安全性的管理并不是一件简单的</description>
+    </item>
+    
+    <item>
+      <title>蚂蚁金服大规模微服务架构下的Service Mesh探索之路</title>
+      <link>https://lvshi.cf/hu/blog/the-way-to-service-mesh-in-ant-financial/</link>
+      <pubDate>Wed, 04 Jul 2018 19:56:20 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/the-way-to-service-mesh-in-ant-financial/</guid>
+      <description>本文是根据蚂蚁金服 Service Mesh 布道师敖小剑在 Service Mesher社区进行的第一次 Meetup 上分享的《大规模微服务架构下的 Service Mesh 探索之路》现场演讲内容实录整理编辑而成</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh新成员：Consul 1.2</title>
+      <link>https://lvshi.cf/hu/blog/consul-1-2-service-mesh/</link>
+      <pubDate>Wed, 04 Jul 2018 12:48:07 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/consul-1-2-service-mesh/</guid>
+      <description>本文译自 HashiCorp 官网关于 Consul 1.2 支持 Service Mesh 发布的博客文章。 本文是 HashiCorp 创始人 Mitchell Hashimoto 在 2018 年 6 月 26 日发布的关于 Consul 1.2 新功能 Service Mesh 的官方介绍。译者接触过的 Hashicorp 的产品有过不</description>
+    </item>
+    
+    <item>
+      <title>Istio不仅为微服务而生—使用Istio Service Mesh保护Kubernetes中的服务</title>
+      <link>https://lvshi.cf/hu/blog/istio-is-not-just-for-microservices/</link>
+      <pubDate>Thu, 28 Jun 2018 15:09:03 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/istio-is-not-just-for-microservices/</guid>
+      <description>通过使用 Istio Service Mesh 来保障 Kubernetes 平台服务。通常可以运行示例代码有助于用户更清晰的理解并将概念应用到实际的案例中。该项目围绕一个简单的 Node.js 应用程序演示了以</description>
+    </item>
+    
+    <item>
+      <title>InfoQ访谈：使用服务网格的微服务通信与治理</title>
+      <link>https://lvshi.cf/hu/blog/vp-microservices-communication-governance-using-service-mesh/</link>
+      <pubDate>Fri, 22 Jun 2018 19:01:51 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/vp-microservices-communication-governance-using-service-mesh/</guid>
+      <description>关键点 服务网格框架用于处理服务间的通信，并提供连接、管理和保护微服务的平台。 服务网格通过处理需要复杂编码的功能来帮助应用程序开发人员，例如路</description>
+    </item>
+    
+    <item>
+      <title>容器、服务网格和API网关：从边缘开始</title>
+      <link>https://lvshi.cf/hu/blog/containers-service-mesh-and-api-gateways-it-starts-at-the-edge/</link>
+      <pubDate>Thu, 21 Jun 2018 18:00:58 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/containers-service-mesh-and-api-gateways-it-starts-at-the-edge/</guid>
+      <description>Docker 和 Kubernetes 为代表的容器技术炙手可热，熟知这一技术领域的用户，一定都知道下一个热点：Service Mesh，它承诺将微服务之间的内部网络通信均一化</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh中的通用数据平面API设计</title>
+      <link>https://lvshi.cf/hu/blog/the-universal-data-plane-api/</link>
+      <pubDate>Thu, 21 Jun 2018 16:11:03 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/the-universal-data-plane-api/</guid>
+      <description>正如我之前所说的，在如此短的时间内，Envoy 带来的兴奋既神奇又震撼人心。我经常问自己：envoy 的哪些方面导致了我们所看到的异常的社区增长</description>
+    </item>
+    
+    <item>
+      <title>使用Service Mesh来充分利用微服务</title>
+      <link>https://lvshi.cf/hu/blog/making-most-out-microservices-service-mesh/</link>
+      <pubDate>Tue, 19 Jun 2018 18:04:08 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/making-most-out-microservices-service-mesh/</guid>
+      <description>Aspen Mesh的Andrew Jenkins说，转向微服务本身并不能消除复杂性。 在本文中，我们与Aspen Mesh的首席架构师Andrew Jenk</description>
+    </item>
+    
+    <item>
+      <title>服务网格在Cookpad网站中的实践</title>
+      <link>https://lvshi.cf/hu/blog/service-mesh-in-cookpad/</link>
+      <pubDate>Tue, 19 Jun 2018 15:54:19 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/service-mesh-in-cookpad/</guid>
+      <description>这个原文是 5 月初发表的日文原文的翻译。补充一下这篇文章的背景，Cookpad 是一家拥有 200 多种产品开发的中型科技公司，拥有 10 多支团队，每月平均</description>
+    </item>
+    
+    <item>
+      <title>轻量Service Mesh在Ucloud的实践</title>
+      <link>https://lvshi.cf/hu/blog/lightweight-service-mesh-practice-in-ucloud/</link>
+      <pubDate>Thu, 14 Jun 2018 10:43:16 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/lightweight-service-mesh-practice-in-ucloud/</guid>
+      <description>UCloud 作为一家To B的公有云服务商，我们的CTO莫显峰经常说：“研发团队最首要的任务是提供稳定的服务，然后才是提供符合客户需求的、易用和低成本的</description>
+    </item>
+    
+    <item>
+      <title>蚂蚁金服是如何实现经典服务化架构向Service Mesh方向演进的？</title>
+      <link>https://lvshi.cf/hu/blog/migrating-from-classical-soa-to-service-mesh-in-ant-financial/</link>
+      <pubDate>Wed, 13 Jun 2018 18:58:33 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/migrating-from-classical-soa-to-service-mesh-in-ant-financial/</guid>
+      <description>蚂蚁金服在服务化上面已经经过多年的沉淀，支撑了每年双十一的高峰峰值。Service Mesh 作为微服务的一个新方向，在最近两年成为领域的一个大热点，</description>
+    </item>
+    
+    <item>
+      <title>Istio服务网格的崛起</title>
+      <link>https://lvshi.cf/hu/blog/the-rise-of-the-istio-service-mesh/</link>
+      <pubDate>Tue, 12 Jun 2018 15:06:25 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/the-rise-of-the-istio-service-mesh/</guid>
+      <description>如何确保微服务之间网络通信的可靠性、安全性和可管理性？ 使用服务网格吧！ 在过去一年中，Istio服务网格技术引发关注度和吸引力的持续提升，这是</description>
+    </item>
+    
+    <item>
+      <title>服务网格：8种方式简化微服务部署</title>
+      <link>https://lvshi.cf/hu/blog/8-ways-a-service-mesh-eases-microservices-deployment/</link>
+      <pubDate>Tue, 05 Jun 2018 19:12:42 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/8-ways-a-service-mesh-eases-microservices-deployment/</guid>
+      <description>本文系转载，译者：Grace 基于微服务的架构是未来的趋势，但是实现这种架构会面临许多困难。现代应用架构远比过去的架构复杂，因此实现微服务架构</description>
+    </item>
+    
+    <item>
+      <title>服务网格之路</title>
+      <link>https://lvshi.cf/hu/blog/the-path-to-service-mesh/</link>
+      <pubDate>Mon, 04 Jun 2018 15:55:08 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/the-path-to-service-mesh/</guid>
+      <description>当我们谈论服务网格的时候，有几个问题经常被提及。这些问题的范围覆盖从简单的了解服务网格的历史，到产品和架构相关的比较深入的技术问题。 为了回答</description>
+    </item>
+    
+    <item>
+      <title>一个商用级Service Mesh服务的设计之道</title>
+      <link>https://lvshi.cf/hu/blog/the-desigin-patterns-for-a-commercial-service-mesh/</link>
+      <pubDate>Wed, 30 May 2018 15:00:22 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/the-desigin-patterns-for-a-commercial-service-mesh/</guid>
+      <description>作者介绍：田晓亮，8年软件行业经验，曾就职于三星，2012年进入云计算领域，对PaaS，DevOps，APM有深入的研究和实践经验，方案支撑</description>
+    </item>
+    
+    <item>
+      <title>深入解读Service Mesh背后的技术细节</title>
+      <link>https://lvshi.cf/hu/blog/deepin-service-mesh-tech-details/</link>
+      <pubDate>Wed, 23 May 2018 16:09:57 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/deepin-service-mesh-tech-details/</guid>
+      <description>在Kubernetes称为容器编排的标准之后，Service Mesh开始火了起来，但是很多文章讲概念的多，讲技术细节的少，所以专门写一篇文章</description>
+    </item>
+    
+    <item>
+      <title>Service Mesh：重塑微服务市场</title>
+      <link>https://lvshi.cf/hu/blog/service-mesh-rebuild-microservice-market/</link>
+      <pubDate>Mon, 21 May 2018 21:48:05 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/service-mesh-rebuild-microservice-market/</guid>
+      <description>今天我们不谈技术，不谈架构，也不谈具体的产品，我们来聊一聊在未来一两年之内，Service Mesh技术会在微服务相关的市场带来什么样的变化？</description>
+    </item>
+    
+  </channel>
+</rss>

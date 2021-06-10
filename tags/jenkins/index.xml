@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenkins on ServiceMesher</title>
+    <link>https://lvshi.cf/hu/tags/jenkins/</link>
+    <description>Recent content in Jenkins on ServiceMesher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 04 Jun 2018 11:33:16 +0800</lastBuildDate>
+    
+	<atom:link href="https://lvshi.cf/hu/tags/jenkins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用Minikube-in-a-Container和Jenkins构建Istio</title>
+      <link>https://lvshi.cf/hu/blog/building-istio-with-minikube-in-a-container-and-jenkins/</link>
+      <pubDate>Mon, 04 Jun 2018 11:33:16 +0800</pubDate>
+      
+      <guid>https://lvshi.cf/hu/blog/building-istio-with-minikube-in-a-container-and-jenkins/</guid>
+      <description>AspenMesh提供一种Istio的分布式架构支持，这意味着即使与上游Istio项目无关，我们也需要能够测试和修复Bug。为此我们已开发构</description>
+    </item>
+    
+  </channel>
+</rss>
